@@ -1,0 +1,6 @@
+Model,Best CV Score (Balanced Acc),Best Params,Tuning Time (s)
+Logistic Regression,0.6711396011396011,"{'classifier__C': 10.0, 'classifier__class_weight': 'balanced'}",4.668973500025459
+SVM,0.681054131054131,"{'classifier__C': 0.5, 'classifier__class_weight': 'balanced', 'classifier__gamma': 'scale'}",0.2949857000494376
+Random Forest,0.6646438746438748,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 5, 'classifier__n_estimators': 200}",2.025343500019517
+Gradient Boosting,0.5993447293447294,"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 200}",1.276001600024756
+MLP,0.5706552706552707,"{'classifier__alpha': 0.0001, 'classifier__hidden_layer_sizes': (25,)}",0.3158432999625802

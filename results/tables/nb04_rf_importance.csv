@@ -1,0 +1,11 @@
+Feature,Importance
+Direct_Bilirubin,0.16482806403131178
+Alkaline_Phosphotase,0.1585404445304398
+Total_Bilirubin,0.14108151826702378
+Aspartate_Aminotransferase,0.13251928162686455
+Alamine_Aminotransferase,0.11891901646604323
+Age,0.09694088089483165
+Albumin,0.06962097020947404
+Total_Proteins,0.05654303820957016
+Albumin_and_Globulin_Ratio,0.054738202840983644
+Gender_Male,0.006268582923457361

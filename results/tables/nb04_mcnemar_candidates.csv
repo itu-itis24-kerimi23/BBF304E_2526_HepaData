@@ -1,0 +1,2 @@
+Model A,Model B,"b (A wrong, B right)","c (A right, B wrong)",Chi2,p-value,Significant (α=0.05)
+Gradient Boosting,Random Forest,22,22,0.022727272727272728,0.8801684549067255,False

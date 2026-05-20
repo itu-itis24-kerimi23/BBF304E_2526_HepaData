@@ -1,0 +1,11 @@
+Model A,Model B,"b (A wrong, B right)","c (A right, B wrong)",Chi2,p-value,Significant (α=0.05)
+Logistic Regression,SVM,4,4,0.125,0.7236736098317629,False
+Gradient Boosting,MLP,9,9,0.05555555555555555,0.8136637157667919,False
+Random Forest,MLP,20,20,0.025,0.8743670611628918,False
+Random Forest,Gradient Boosting,22,22,0.022727272727272728,0.8801684549067255,False
+Logistic Regression,MLP,21,20,0.0,1.0,False
+SVM,Random Forest,8,7,0.0,1.0,False
+Logistic Regression,Gradient Boosting,25,24,0.0,1.0,False
+Logistic Regression,Random Forest,8,7,0.0,1.0,False
+SVM,MLP,22,21,0.0,1.0,False
+SVM,Gradient Boosting,25,24,0.0,1.0,False
